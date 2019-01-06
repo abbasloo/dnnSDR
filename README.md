@@ -11,3 +11,5 @@ See dnnComm repository for more detail.
 - Hardware:
 
 Hackrf One on Ubuntu.
+
+        https://greatscottgadgets.com/
