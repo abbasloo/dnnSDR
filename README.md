@@ -2,7 +2,7 @@
 
 - Detail:
 
-dnnComm is trained offline and used for SDR signals.
+dnnComm is trained offline and used for realtime SDR signals.
 
 See dnnComm repository for more detail.
 
