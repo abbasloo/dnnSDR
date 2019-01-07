@@ -2,11 +2,11 @@
 
 - Detail:
 
-dnnComm is trained offline and used for realtime SDR signals.
+dnnSig is trained offline and used for realtime SDR signals.
 
-See dnnComm repository for more detail.
+See dnnSig repository for more detail.
 
-    https://github.com/abbasloo/dnnComm
+    https://github.com/abbasloo/dnnSig
 
 - Hardware:
 
