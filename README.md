@@ -4,6 +4,8 @@
 
 dnnSig is trained offline and used for realtime SDR signals.
 
+https://github.com/abbasloo/dnnSDR/blob/master/result.png
+
 See dnnSig repository for more detail.
 
     https://github.com/abbasloo/dnnSig
