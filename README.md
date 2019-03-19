@@ -8,10 +8,6 @@ dnnSig is trained offline and used for realtime SDR signals.
 ![alt text](https://github.com/abbasloo/dnnSDR/blob/master/result.png)
 
 
-See dnnSig repository for more detail.
-
-    https://github.com/abbasloo/dnnSig
-
 - Hardware:
 
 Hackrf One on Ubuntu.
